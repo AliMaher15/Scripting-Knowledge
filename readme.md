@@ -10,6 +10,8 @@
 \
 [Youtube Tutorials](https://github.com/AliMaher15/tcl-scripting-tutorials-youtube.git)
 ### Shell
-[Online website tutorials](https://github.com/AliMaher15/shell-scripting-tutorial.git)
+[Online website tutorials](https://github.com/AliMaher15/shell-scripting-tutorial.git) \
+\
+[video tutorials](https://github.com/AliMaher15/linux-shell-scripting-tutorials.git)
 ### Perl
 [Youtube Tutorials](https://github.com/AliMaher15/perl-tutorials-youtube.git)
