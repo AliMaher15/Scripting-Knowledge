@@ -4,7 +4,9 @@
 \
 [Coursera Specialization: Programming for Everybody](https://github.com/AliMaher15/Programming-for-Everybody-Python.git) \
 \
-[Course: Applied Deep Learning - MaharaTech](https://github.com/AliMaher15/Applied-Deep-Learning-MaharaTech.git)
+[Course: Applied Deep Learning - MaharaTech](https://github.com/AliMaher15/Applied-Deep-Learning-MaharaTech.git) \
+\
+[youtube python libraries tutorials](https://github.com/AliMaher15/python-libraries-tutorials.git)
 ### TCL
 [Digital IC Design Diploma: TCL sessions](https://github.com/AliMaher15/TCL-Scripting-Tutorial.git) \
 \
